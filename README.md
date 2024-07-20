@@ -4,6 +4,11 @@
 A real-time collaborative drawing application built with Next.js, React, and Socket.io. This project allows multiple users to draw on a shared canvas, with changes broadcasted in real-time to all connected clients.
 
 ## Working
+
+
+https://github.com/user-attachments/assets/0ab4dabd-38bc-4a43-999b-8b48b3f42d50
+
+
 The application uses the HTML Canvas API to draw lines and images. When a new user connects, the current state of the canvas is sent from the server, allowing them to see the latest version of the drawing.
 
 ## Features
